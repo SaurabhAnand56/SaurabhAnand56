@@ -118,29 +118,12 @@ class SaurabhAnand:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SaurabhAnand56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhAnand56&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhAnand56&theme=tokyonight&hide_border=true" />
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaurabhAnand56&theme=tokyo-night&hide_border=true&area=true" />
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/SaurabhAnand56/SaurabhAnand56/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
